@@ -1,0 +1,4 @@
+mysql_root_password: expenseapp1
+
+app_location: /app
+component: backend
